@@ -34,8 +34,12 @@
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** Go, Python, SQL, HCL.
-- **Data & Ops:** Apache Flink, dbt, Terraform, Docker, GCP.
+- **Languages:** Go, Python, SQL, HCL, PHP.
+- **Data & Ops:** Apache Flink, Apache Airflow, Apache Kafka, dbt.
+- **Cloud:** GCP, AWS, Private cloud
+- **Containerization:** Docker, Kubernetes
+- **Infra-as-Code:** Terraform.
+- **CI/CD:** GitHub Actions.
 
 ---
 

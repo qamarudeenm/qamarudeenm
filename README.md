@@ -1,46 +1,41 @@
+<img src="https://raw.githubusercontent.com/qamarudeenm/qamarudeenm/main/profile_banner.png" width="100%" alt="Senior Data Engineer Banner">
+
 # Hi, I'm QAMARUDEEN OLABODE MUHAMMAD 👋
 ### Senior Data Engineer | Cloud Infrastructure Architect
-
-Building high-fidelity cloud emulators and scalable data streaming architectures. I specialize in bridging the gap between infrastructure-as-code and real-time data processing.
 
 ---
 
 ### 🚀 Flagship Projects
 
 #### [MiniSky](https://github.com/qamarudeenm/minisky)
-**The Open-Source GCP Emulator.**  
-A high-fidelity emulator for Google Cloud services, written in Go. Used for local development to simulate production-like GCP environments.
+**The Open-Source GCP Emulator.** High-fidelity local development for Google Cloud.
+
+#### [Remote_WKstation](https://github.com/qamarudeenm/Remote_WKstation)
+**Infrastructure-as-Code Workstation.** Automated provisioning using Terraform and HCL.
 
 #### [HydraStream](https://github.com/qamarudeenm/public_oss_HydraStream)
-**Unified Streaming Data Platform.**  
-An end-to-end streaming architecture leveraging Apache Flink and dbt for real-time transformations.
+**Streaming Data Platform.** Real-time transformations with Flink and dbt.
 
 #### [Star Wars Calendar Converter](https://github.com/qamarudeenm/starwar-calender-converter)
-**Open Source PyPI Package.**  
-A specialized utility for date conversion into the Galactic Standard Calendar format.
+**Open Source PyPI Package.** Python utility for galactic date conversion.
 
 ---
 
-### 🛠 Tech Stack
-- **Languages:** Go, Python, SQL, Scala.
-- **Data:** Apache Flink, dbt, BigQuery, PostgreSQL.
-- **Cloud/Infra:** GCP, Terraform, Kubernetes, Docker.
-
----
-
-### 📂 Contributions & Forks
-Here are some of the open-source projects I've forked or contributed to:
+### 📂 Selected Open Source Contributions
 - [DataExpert-io-Community/awesome-machine-learning-star](https://github.com/DataExpert-io-Community/awesome-machine-learning-star): A curated list of awesome Machine Learning frameworks, libraries and software.
 - [DataExpert-io-Community/awesome-production-machine-learning](https://github.com/DataExpert-io-Community/awesome-production-machine-learning): A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [DataExpert-io-Community/Bootcamp](https://github.com/DataExpert-io-Community/Bootcamp): This is a repo with links to everything you'd ever want to learn about data engineering
 - [DataExpert-io-Community/Bootcamp_data_expert_io](https://github.com/DataExpert-io-Community/Bootcamp_data_expert_io): This is a repo with links to everything you'd ever want to learn about data engineering
-- [DataExpert-io-Community/data-engineer-Data-Expert-](https://github.com/DataExpert-io-Community/data-engineer-Data-Expert-): This is a repo with links to everything you'd ever want to learn about data engineering
-- [DataExpert-io-Community/data-engineer-entrylevel-intermediate](https://github.com/DataExpert-io-Community/data-engineer-entrylevel-intermediate): This is a repo with links to everything you'd ever want to learn about data engineering
-- [DataExpert-io-Community/data-engineer-handbook](https://github.com/DataExpert-io-Community/data-engineer-handbook): This is a repo with links to everything you'd ever want to learn about data engineering
-- [DataExpert-io-Community/data-engineer-handbook-0326](https://github.com/DataExpert-io-Community/data-engineer-handbook-0326): This is a repo with links to everything you'd ever want to learn about data engineering
 - [DataExpert-io-Community/data-engineer-handbook-a](https://github.com/DataExpert-io-Community/data-engineer-handbook-a): This is a repo with links to everything you'd ever want to learn about data engineering
-- [DataExpert-io-Community/data-engineer-handbook1](https://github.com/DataExpert-io-Community/data-engineer-handbook1): This is a repo with links to everything you'd ever want to learn about data engineering
-- ... and 71 more.
+- [DataExpert-io-Community/data-engineer-handbook_updated](https://github.com/DataExpert-io-Community/data-engineer-handbook_updated): This is a repo with links to everything you'd ever want to learn about data engineering
+- [DataExpert-io-Community/data-engineering-zoomcamp](https://github.com/DataExpert-io-Community/data-engineering-zoomcamp): Data Engineering Zoomcamp is a free nine-week course that covers the fundamentals of data engineering.
+- [DataExpert-io-Community/data-engineering-zoomcamp2](https://github.com/DataExpert-io-Community/data-engineering-zoomcamp2): Data Engineering Zoomcamp is a free nine-week course that covers the fundamentals of data engineering.
+
+---
+
+### 🛠 Tech Stack
+- **Languages:** Go, Python, SQL, HCL.
+- **Data & Ops:** Apache Flink, dbt, Terraform, Docker, GCP.
 
 ---
 
